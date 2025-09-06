@@ -30,18 +30,20 @@ FULL OUTER JOIN (emulated)
 ```
 
 ### Grouping & Filtering
+```bash
 
 GROUP BY
 
 HAVING
-
+```
 ### Subqueries
-
+```bash
 Scalar subqueries
 
 Correlated subqueries
 
 IN, EXISTS, NOT EXISTS
+```
 
 ### Advanced
 
