@@ -11,10 +11,13 @@ DISTINCT, IN, BETWEEN, LIKE
 
 ```
 ### Aggregate Functions
-
+```bash
 COUNT(), SUM(), AVG(), MIN(), MAX()
 
+```
+
 ### Joins
+```bash
 
 INNER JOIN
 
@@ -23,6 +26,8 @@ LEFT JOIN
 RIGHT JOIN
 
 FULL OUTER JOIN (emulated)
+
+```
 
 ### Grouping & Filtering
 
