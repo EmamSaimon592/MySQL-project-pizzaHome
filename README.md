@@ -2,13 +2,14 @@
 MySQL is an open-source relational database management system (RDBMS) based on SQL (Structured Query Language).
 
 ### Basic Queries
-
+```bash
 SELECT * FROM table_name;
 
 WHERE, ORDER BY, LIMIT
 
 DISTINCT, IN, BETWEEN, LIKE
 
+```
 ### Aggregate Functions
 
 COUNT(), SUM(), AVG(), MIN(), MAX()
