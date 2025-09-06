@@ -46,7 +46,7 @@ IN, EXISTS, NOT EXISTS
 ```
 
 ### Advanced
-
+```bash
 CASE statements
 
 UNION and UNION ALL
@@ -56,3 +56,4 @@ Views
 Stored procedures
 
 Indexing for performance
+```
